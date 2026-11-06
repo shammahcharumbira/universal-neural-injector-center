@@ -1,0 +1,4 @@
+*.tgz
+*.log
+npm-debug.log*
+dist/
